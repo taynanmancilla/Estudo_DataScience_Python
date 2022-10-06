@@ -1,0 +1,61 @@
+MODULO 1
+    Numpy
+	np.zeros
+	np.ones
+	np.empty
+	np.linspace
+	np.array
+	np.random.randint
+	np.random.seed
+	np.add
+	np.subtract
+	np.multiply
+	np.divide
+
+    Pandas
+	read_csv
+	shape
+	dtypes
+	type()	
+	head()
+	loc[]
+	iloc[]
+	plot(figsize)
+	index
+	rename(columns, inplace)
+	drop(axis)
+
+
+MODULO 2
+	read_csv(csv e txt)
+	to_datetime
+	index
+	columns
+	shape
+	dtypes
+	max()
+	min()
+	mean()
+	mode()
+	std()
+	var()
+	pct_change
+	plot.hist
+	bloxpot
+	corr
+	cov
+	
+	YFinance
+	   download
+	   ticker
+	   actions
+	   info
+	   institutional_holders
+	   quarterly_earnings
+	   calendar
+	   history(period, interval
+
+	melt(ignore_index)
+	set
+	   
+	
